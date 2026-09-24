@@ -1,0 +1,7 @@
+{
+  "name": "PicnicGo - Outdoor Day Planner",
+  "description": "Intelligent outing coordinator optimizing park shelter bookings, live rainfall forecasts, shade coverage, and nearby provision pickups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
